@@ -1,1 +1,1 @@
-.. include:: ../fr/install.rst
+Test d'anglais
